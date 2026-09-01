@@ -784,12 +784,12 @@ a {
 .fact-grid b {
     display: block;
     color: var(--blue);
-    font: 700 18px Georgia, serif
+    font: 700 18px Georgia
 }
 
 .fact-grid span {
-    font-size: 10px;
-    color: #888
+    font-size: 12px;
+    color: #1c0b64
 }
 
 .experience-list {
@@ -805,12 +805,12 @@ a {
 }
 
 .experience-list time {
-    font-size: 11px;
+    font-size: 12px;
     color: #222290
 }
 
 .experience-list h3 {
-    font: 700 19px Georgia, serif;
+    font: 700 19px ;
     color: var(--blue);
     margin: 0
 }
