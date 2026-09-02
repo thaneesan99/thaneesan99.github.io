@@ -1050,6 +1050,30 @@ a {
     box-shadow: 0 0 0 1px rgba(29, 95, 167, .03)
 }
 
+.academic-actions {
+    margin-top: 18px;
+    display: flex;
+    justify-content: flex-start
+}
+
+.academic-actions a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 20px;
+    border-radius: 999px;
+    background: var(--blue);
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    white-space: nowrap;
+    text-decoration: none
+}
+
+.academic-actions a:hover {
+    background: #174f8b
+}
+
 .cv-banner p {
     display: none
 }
