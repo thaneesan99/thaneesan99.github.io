@@ -267,8 +267,8 @@ a {
 
 .profile-card>p {
     margin: 2px 0;
-    font-size: 12px;
-    color: #888
+    font-size: 14px;
+    color: #060111
 }
 
 .profile-card hr {
@@ -784,7 +784,7 @@ a {
 .fact-grid b {
     display: block;
     color: var(--blue);
-    font: 700 18px Georgia
+    font: 700 18px 
 }
 
 .fact-grid span {
